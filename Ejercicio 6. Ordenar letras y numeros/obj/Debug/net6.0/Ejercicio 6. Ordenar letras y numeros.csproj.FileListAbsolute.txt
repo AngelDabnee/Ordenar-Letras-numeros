@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\bin\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.exe
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\bin\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.deps.json
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\bin\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\bin\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.dll
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\bin\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.pdb
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.dll
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\refint\Ejercicio 6. Ordenar letras y numeros.dll
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.pdb
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\Ejercicio 6. Ordenar letras y numeros.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 6. Ordenar letras y numeros\Ejercicio 6. Ordenar letras y numeros\obj\Debug\net6.0\ref\Ejercicio 6. Ordenar letras y numeros.dll
